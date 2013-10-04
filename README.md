@@ -4,7 +4,7 @@
 yes i can see it
 cause every one in here wanna use it
 oh it's a platform
-i feel the same i wanna speak it
+i feel the same i wanna hack it
 
 they say it low down
 it's just a rumor and i don't believe em
@@ -44,7 +44,7 @@ line after line of sexy scripting
 yes i can see it
 cause every one in here wanna use it
 oh it's a platform
-i feel the same i wanna speak it
+i feel the same i wanna hack it
 
 they say it low down
 it's just a rumor and i don't believe em
