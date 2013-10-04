@@ -1,5 +1,7 @@
 # sexy script
 
+instrumental: http://www.youtube.com/watch?v=lybYdP_VZoA
+
 ```
 yes i can see it
 cause every one in here wanna use it
@@ -17,8 +19,6 @@ i'm tryna find the words to describe this code without being disrespectful
 the way those packages movin' i can't take no more
 have to stop what i'm doing so i npm install
 i'm tryna find the words to describe this code without being disrespectful
-
-damn script!
 
 damn you'se a sexy script
 a sexy script
@@ -58,17 +58,15 @@ the way those packages movin' i can't take no more
 have to stop what i'm doing so i npm install
 i'm tryna find the words to describe this code without being disrespectful
 
-damn script!
-
 damn you'se a sexy script
 a sexy script
 damn you'se a sexy script
 sexy sexy javascript
 
-damn you'se a sexy script
+whose a sexy script
 a sexy script
-damn you'se a sexy script
-sexy sexy javascript
+whose a sexy script
+java java javascript
 
 damn you'se a sexy script
 a sexy script
