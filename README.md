@@ -1,5 +1,6 @@
 # sexy script
 
+```
 yes i can see it
 cause every one in here wanna use it
 oh it's a platform
@@ -78,3 +79,4 @@ you a sexy script
 a sexy script
 you a sexy script
 we are sexy scripts
+```
