@@ -5,8 +5,8 @@ instrumental: http://www.youtube.com/watch?v=lybYdP_VZoA
 ```
 yes i can see it
 cause every one in here wanna use it
-oh it's a platform
-i feel the same i wanna hack it
+oh it's a language
+i feel the same i wanna speak it
 
 they say it low down
 it's just a rumor and i don't believe em
