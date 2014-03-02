@@ -14,7 +14,7 @@ they say it needs to slow down
 the baddest thing around the net
 
 it's nothing like you've ever seen before
-nothing you can compare to your other C-style languages
+nothing you can compare to your other scripting languages
 i'm tryna find the words to describe this code without being disrespectful
 the way those packages movin' i can't take no more
 have to stop what i'm doing so i npm install
@@ -43,8 +43,8 @@ line after line of sexy scripting
 
 yes i can see it
 cause every one in here wanna use it
-oh it's a platform
-i feel the same i wanna hack it
+oh it's a language
+i feel the same i wanna speak it
 
 they say it low down
 it's just a rumor and i don't believe em
@@ -52,7 +52,7 @@ they say it needs to slow down
 the baddest thing around the net
 
 it's nothing like you've ever seen before
-nothing you can compare to your other C-style languages
+nothing you can compare to your other scripting languages
 i'm tryna find the words to describe this code without being disrespectful
 the way those packages movin' i can't take no more
 have to stop what i'm doing so i npm install
