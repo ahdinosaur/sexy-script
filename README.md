@@ -1,6 +1,6 @@
 # sexy script
 
-instrumental: http://www.youtube.com/watch?v=lybYdP_VZoA
+instrumental: http://youtu.be/UUCyopT865k
 
 ```
 yes i can see it
