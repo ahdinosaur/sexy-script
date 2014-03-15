@@ -11,7 +11,7 @@ i feel the same i wanna speak it
 they say it low down
 it's just a rumor and i don't believe em
 they say it needs to slow down
-the baddest thing around the net
+the baddest thing around the web
 
 it's nothing like you've ever seen before
 nothing you can compare to your other scripting languages
@@ -49,7 +49,7 @@ i feel the same i wanna speak it
 they say it low down
 it's just a rumor and i don't believe em
 they say it needs to slow down
-the baddest thing around the net
+the baddest thing around the web
 
 it's nothing like you've ever seen before
 nothing you can compare to your other scripting languages
