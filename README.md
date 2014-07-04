@@ -17,7 +17,7 @@ it's nothing like you've ever seen before
 nothing you can compare to your other scripting languages
 i'm tryna find the words to describe this code without being disrespectful
 the way those curlies movin' i can't take no more
-have to stop what i'm doing so i console dot log
+have to stop what i'm doing so i console.log
 i'm tryna find the words to describe this code without being disrespectful
 
 damn you'se a sexy script
@@ -55,7 +55,7 @@ it's nothing like you've ever seen before
 nothing you can compare to your other scripting languages
 i'm tryna find the words to describe this code without being disrespectful
 the way those curlies movin' i can't take no more
-have to stop what i'm doing so i console dot log
+have to stop what i'm doing so i console.log
 i'm tryna find the words to describe this code without being disrespectful
 
 damn you'se a sexy script
