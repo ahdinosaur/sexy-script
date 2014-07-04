@@ -16,8 +16,8 @@ the baddest thing around the web
 it's nothing like you've ever seen before
 nothing you can compare to your other scripting languages
 i'm tryna find the words to describe this code without being disrespectful
-the way those packages movin' i can't take no more
-have to stop what i'm doing so i npm install
+the way those curlies movin' i can't take no more
+have to stop what i'm doing so i console dot log
 i'm tryna find the words to describe this code without being disrespectful
 
 damn you'se a sexy script
@@ -54,8 +54,8 @@ the baddest thing around the web
 it's nothing like you've ever seen before
 nothing you can compare to your other scripting languages
 i'm tryna find the words to describe this code without being disrespectful
-the way those packages movin' i can't take no more
-have to stop what i'm doing so i npm install
+the way those curlies movin' i can't take no more
+have to stop what i'm doing so i console dot log
 i'm tryna find the words to describe this code without being disrespectful
 
 damn you'se a sexy script
